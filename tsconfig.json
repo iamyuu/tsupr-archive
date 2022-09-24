@@ -1,0 +1,14 @@
+{
+	"compilerOptions": {
+		"target": "ES6",
+		"module": "ESNext",
+		"lib": ["ES2015", "DOM"],
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"strict": true,
+		"strictNullChecks": true,
+		"resolveJsonModule": true,
+		"jsx": "react-jsx"
+	},
+	"exclude": ["**/dist/**"]
+}

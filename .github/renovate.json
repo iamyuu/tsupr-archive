@@ -1,0 +1,5 @@
+{
+	"extends": ["config:base", "schedule:weekly"],
+	"rangeStrategy": "bump",
+	"pin": false
+}
